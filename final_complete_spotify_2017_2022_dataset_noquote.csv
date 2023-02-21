@@ -199,206 +199,206 @@ pos;year;track_ID;artist_names;track_name;genres;danceability;energy;speechiness
 198;2022;2KdKh9vHbKW0tZLqtpxxI0;Justin Bieber Don Toliver;Honest (feat Don Toliver);['pop'];0.81;0.66;0.07;0.13;0.11;0.81;150.00
 199;2022;5wG3HvLhF6Y5KTGlK0IW3J;Metro Boomin Travis Scott Young Thug;Trance (with Travis Scott & Young Thug);['rap'];0.57;0.55;0.40;0.18;0.17;0.45;119.50
 200;2022;2Xr1dTzJee307rmrkt8c0g;CKay;love nwantiti (ah ah ah);['R&B'];0.73;0.74;0.04;0.37;0.16;0.53;93.01
-201;2021;  '0gplL1WMoJ6iYaPgMCL0gX';Adele;Easy On Me;['pop'];0.60;0.37;0.03;0.58;0.13;0.13;141.98
-202;2021;  '4ZtFanR9U6ndgddUvNcjcG';Olivia Rodrigo;good 4 u;['pop'];0.56;0.66;0.15;0.34;0.08;0.69;166.93
-203;2021;  '7lPN2DXiMsVn7XUKtOW1CS';Olivia Rodrigo;drivers license;['pop'];0.59;0.44;0.06;0.72;0.11;0.13;143.87
-204;2021;  '5PjdY0CKGZdEuoNab3yDmX';The Kid LAROI, Justin Bieber;STAY (with Justin Bieber);['pop'];0.59;0.76;0.05;0.04;0.10;0.48;169.93
-205;2021;  '3VqeTFIvhxu3DIe4eZVzGq';BTS;Butter;['k-pop'];0.76;0.46;0.09;0.00;0.09;0.70;110.00
-206;2021;  '67BtfxlNbhBmCDR2L2l8qd';Lil Nas X;MONTERO (Call Me By Your Name);['hip hop'];0.61;0.51;0.15;0.30;0.38;0.76;178.82
-207;2021;  '5Z9KJZvQzH6PFmb8SNkxuk';Lil Nas X, Jack Harlow;INDUSTRY BABY (feat. Jack Harlow);['hip hop'];0.74;0.69;0.07;0.02;0.05;0.89;150.09
-208;2021;  '4iJyoBOLtHqaGxP12qzhQI';Justin Bieber, Daniel Caesar, Giveon;Peaches (feat. Daniel Caesar & Giveon);['pop'];0.68;0.70;0.12;0.32;0.42;0.46;90.03
-209;2021;  '3Wrjm47oTz2sjIgck11l5e';Måneskin;Beggin';['rock'];0.71;0.80;0.05;0.13;0.36;0.59;134.00
-210;2021;  '4fSIb4hdOQ151TILNsSEaF';Rauw Alejandro;Todo De Ti;['latin'];0.78;0.72;0.05;0.31;0.09;0.34;127.95
-211;2021;  '37Nqx7iavZpotJSDXZWbJ3';Drake, Lil Baby;Girls Want Girls (with Lil Baby);['hip hop'];0.77;0.44;0.29;0.18;0.14;0.38;86.98
-212;2021;  '6HU7h9RYOaPRFeh0R3UeAr';Olivia Rodrigo;deja vu;['pop'];0.44;0.61;0.11;0.58;0.37;0.18;180.92
-213;2021;  '40iJIUlhi6renaREYGeIDS';Drake, Travis Scott;Fair Trade (with Travis Scott);['hip hop'];0.67;0.47;0.26;0.05;0.22;0.29;167.94
-214;2021;  '5enxwA8aAbwZbf5qCHORXi';Taylor Swift;All Too Well (10 Minute Version) (Taylor's Version) (From The Vault);['pop'];0.63;0.52;0.03;0.27;0.09;0.21;93.02
-215;2021;  '0bYg9bo50gSsH3LtXe2SQn';Mariah Carey;All I Want for Christmas Is You;['pop'];0.34;0.63;0.04;0.16;0.07;0.35;150.27
-216;2021;  '2JPLbjOn0wPCngEot2STUS';Bad Bunny;Yonaguni;['latin'];0.64;0.65;0.12;0.28;0.14;0.44;179.95
-217;2021;  '6PQ88X9TkUIAUIZJHW2upE';Ed Sheeran;Bad Habits;['pop'];0.81;0.90;0.03;0.05;0.36;0.59;126.03
-218;2021;  '0k1WUmIRnG3xU6fvvDVfRG';Drake, Future, Young Thug;Way 2 Sexy (with Future & Young Thug);['hip hop'];0.80;0.60;0.14;0.00;0.32;0.33;136.01
-219;2021;  '0LThjFY2iTtNdd4wviwVV2';BTS;Permission to Dance;['k-pop'];0.70;0.74;0.04;0.01;0.34;0.65;124.93
-220;2021;  '748mdHapucXQri7IAO8yFK';Doja Cat, SZA;Kiss Me More (feat. SZA);['pop'];0.76;0.70;0.03;0.24;0.12;0.74;110.97
-221;2021;  '2FRnf9qhLbvw8fu4IBXx78';Wham!;Last Christmas;['pop'];0.74;0.48;0.03;0.19;0.36;0.95;107.68
-222;2021;  '4fouWK6XVHhzl78KzQ1UjL';GAYLE;abcdefu;['pop'];0.70;0.54;0.05;0.30;0.37;0.42;121.93
-223;2021;  '2HSmyk2qMN8WQjuGhaQgCk';Drake;Champagne Poetry;['hip hop'];0.42;0.67;0.33;0.76;0.25;0.50;86.74
-224;2021;  '3Kkjo3cT83cw09VJyrLNwX';Adele;Oh My God;['pop'];0.53;0.73;0.05;0.09;0.03;0.55;88.10
-225;2021;  '4RVwu0g32PAqgUiJoXsdF8';Billie Eilish;Happier Than Ever;['pop'];0.33;0.23;0.03;0.77;0.13;0.30;81.06
-226;2021;  '5qNh5WtzMbfpSj2jLlBkoD';Billie Eilish;Your Power;['pop'];0.63;0.29;0.08;0.94;0.23;0.20;129.65
-227;2021;  '5CZ40GBx1sQ9agT82CLQCT';Olivia Rodrigo;traitor;['pop'];0.38;0.34;0.03;0.69;0.12;0.08;100.61
-228;2021;  '3FeVmId7tL5YN8B7R3imoM';Coldplay. BTS;My Universe;['pop'];0.59;0.70;0.04;0.01;0.20;0.44;104.99
-229;2021;  '0e8nrvls4Qqv5Rfa2UhqmO';Lil Nas X;THATS WHAT I WANT;['hip hop'];0.74;0.85;0.22;0.01;0.05;0.55;87.98
-230;2021;  '43PGPuHIlVOc04jrZVh9L6';Polo G;RAPSTAR;['hip hop'];0.79;0.54;0.24;0.41;0.13;0.44;81.04
-231;2021;  '50nfwKoDiSYg8zOCREWAm5';Ed Sheeran;Shivers;['pop'];0.79;0.86;0.09;0.28;0.04;0.82;141.02
-232;2021;  '4MzXwWMhyBbmu6hOcLVD49';Bad Bunny, Jhayco;DÁKITI;['latin'];0.73;0.57;0.05;0.40;0.11;0.15;109.93
-233;2021;  '02MWAaffLxlfxAUY7c5dvx';Glass Animals;Heat Waves;['indie pop'];0.76;0.53;0.09;0.44;0.09;0.53;80.87
-234;2021;  '6SRsiMl7w1USE4mFqrOhHC';Olivia Rodrigo;brutal;['pop'];0.67;0.53;0.06;0.03;0.28;0.28;124.00
-235;2021;  '5nujrmhLynf4yMoMtj8AQF';Dua Lipa. DaBaby;Levitating (feat. DaBaby);['pop'];0.70;0.83;0.06;0.01;0.07;0.92;102.98
-236;2021;  '2EjXfH91m7f8HiJN1yQg97';Brenda Lee;Rockin' Around The Christmas Tree;['pop'];0.59;0.47;0.05;0.61;0.51;0.90;67.20
-237;2021;  '5fwSHlTEWpluwOM0Sxnh5k';Farruko;Pepas;['latin'];0.76;0.77;0.03;0.01;0.13;0.44;130.00
-238;2021;  '5QO79kh1waicV47BqGRL3g';The Weeknd;Save Your Tears;['R&B'];0.68;0.83;0.03;0.02;0.54;0.64;118.05
-239;2021;  '3VT8hOC5vuDXBsHrR53WFh';Masked Wolf;Astronaut In The Ocean;['hip hop'];0.78;0.70;0.09;0.18;0.15;0.47;150.00
-240;2021;  '3Vi5XqYrmQgOYBajMWSvCi';Doja Cat;Need to Know;['pop'];0.66;0.61;0.07;0.30;0.09;0.19;130.04
-241;2021;  '6Uj1ctrBOjOas8xZXGqKk4';Doja Cat;Woman;['pop'];0.82;0.76;0.09;0.09;0.12;0.88;108.00
-242;2021;  '7vQbuQcyTflfCIOu3Uzzya';Bobby Helms;Jingle Bell Rock;['pop'];0.75;0.42;0.04;0.64;0.07;0.81;119.71
-243;2021;  '0VjIjW4GlUZAMYd2vXMi3b';The Weeknd;Blinding Lights;['R&B'];0.51;0.73;0.06;0.00;0.09;0.33;171.01
-244;2021;  '2BcMwX1MPV6ZHP4tUT9uq6';Drake, 21 Savage, Project Pat;Knife Talk (with 21 Savage ft. Project Pat);['hip hop'];0.85;0.42;0.32;0.06;0.08;0.15;145.89
-245;2021;  '6tDDoYIxWvMLTdKpjFkc1B';Kali Uchis;telepatía;['latin'];0.65;0.52;0.05;0.11;0.20;0.55;83.97
-246;2021;  '3aQem4jVGdhtg116TmJnHz';Drake;What’s Next;['hip hop'];0.78;0.59;0.05;0.01;0.16;0.06;129.90
-247;2021;  '4pt5fDVTg5GhEvEtlz9dKk';Måneskin;I WANNA BE YOUR SLAVE;['rock'];0.75;0.61;0.04;0.00;0.18;0.96;132.51
-248;2021;  '7rglLriMNBPAyuJOMGwi39';Elton John, Dua Lipa, PNAU;Cold Heart - PNAU Remix;['rock'];0.80;0.80;0.03;0.04;0.09;0.93;116.03
-249;2021;  '7hU3IHwjX150XLoTVmjD0q';LISA;MONEY;['k-pop'];0.83;0.55;0.22;0.16;0.15;0.40;140.03
-250;2021;  '2TOzTqQXNmR2zDJXihjZ2e';Olivia Rodrigo;enough for you;['pop'];0.64;0.26;0.09;0.75;0.22;0.27;88.49
-251;2021;  '1nahzW3kfMuwReTka28tH5';Justin Bieber;Hold On;['pop'];0.66;0.63;0.04;0.01;0.12;0.30;140.00
-252;2021;  '37BZB0z9T8Xu7U3e65qxFy';The Weeknd, Ariana Grande;Save Your Tears (with Ariana Grande) (Remix);['R&B'];0.65;0.83;0.03;0.02;0.09;0.59;118.09
-253;2021;  '0lLdorYw7lVrJydTINhWdI';Michael Bublé;It's Beginning to Look a Lot like Christmas;['pop'];0.34;0.21;0.04;0.91;0.34;0.36;94.78
-254;2021;  '6jy9yJfgCsMHdu2Oz4BGKX';Drake;Papi’s Home;['hip hop'];0.70;0.74;0.31;0.11;0.70;0.59;140.18
-255;2021;  '0RbW8kWozrVSIGb4V13o0o';Kanye West;Hurricane;['hip hop'];0.59;0.56;0.15;0.05;0.11;0.35;80.01
-256;2021;  '2tGvwE8GcFKwNdAXMnlbfl';Olivia Rodrigo;happier;['pop'];0.40;0.44;0.13;0.77;0.08;0.34;168.92
-257;2021;  '2gpWyfu7eZ01zzncHpxOtA';Swedish House Mafia, The Weeknd;Moth To A Flame (with The Weeknd);['Dance/Electronic'];0.54;0.66;0.04;0.00;0.11;0.11;120.12
-258;2021;  '5Kskr9LcNYa0tpt5f0ZEJx';Lil Tjay, 6LACK;Calling My Phone;['hip hop'];0.91;0.39;0.05;0.45;0.14;0.20;104.95
-259;2021;  '6OGogr19zPTM4BALXuMQpF';The Weeknd;Take My Breath - Single Version;['R&B'];0.75;0.74;0.05;0.01;0.10;0.52;121.00
-260;2021;  '6hf0RpxTbOprT5nnwzkk8e';J Balvin, Maria Becerra;Qué Más Pues?;['latin'];0.89;0.82;0.11;0.03;0.17;0.77;101.97
-261;2021;  '4s7QLoImIwmPi9L6dq1nVW';Drake;TSU;['hip hop'];0.57;0.56;0.42;0.23;0.39;0.25;130.02
-262;2021;  '61S79KIVA4I9FXbnsylEHT';Drake, Lil Durk, Giveon;In The Bible (with Lil Durk & Giveon);['hip hop'];0.69;0.39;0.30;0.61;0.13;0.15;143.07
-263;2021;  '7MAibcTli4IisCtbHKrGMh';Bruno Mars, Anderson .Paak, Silk Sonic;Leave The Door Open;['pop'];0.59;0.62;0.03;0.18;0.09;0.72;148.09
-264;2021;  '0lizgQ7Qw35od7CYaoMBZb';Ariana Grande;Santa Tell Me;['pop'];0.53;0.62;0.12;0.05;0.29;0.59;191.90
-265;2021;  '1r9xUipOqoNwggBpENDsvJ';Imagine Dragons, JID, Arcane, League of Legends;Enemy (with JID) - from the series Arcane League of Legends;['rock'];0.73;0.78;0.27;0.24;0.43;0.56;77.01
-266;2021;  '4VCbgIdr8ptegWeJpqLVHH';Drake, JAY-Z;Love All (with JAY-Z);['hip hop'];0.73;0.58;0.29;0.35;0.15;0.16;92.13
-267;2021;  '2vmfvSoZBFAt9hhRoEByLi';Aventura, Bad Bunny;Volví;['latin'];0.73;0.86;0.18;0.42;0.07;0.79;175.90
-268;2021;  '1D3z6HTiQsNmZxjl7F7eoG';J. Cole, 21 Savage, Morray;m y . l i f e (with 21 Savage & Morray);['hip hop'];0.60;0.59;0.14;0.06;0.21;0.08;140.02
-269;2021;  '7sMBvZCSUl99bJLXZaLa0b';Bruno Mars, Anderson .Paak, Silk Sonic;Smokin Out The Window;['pop'];0.63;0.62;0.04;0.06;0.35;0.85;82.03
-270;2021;  '4wcBRRpIfesgcyUtis7PEg';Olivia Rodrigo;1 step forward, 3 steps back;['pop'];0.47;0.20;0.10;0.94;0.13;0.42;168.88
-271;2021;  '2MnLkFqY9Rpg9s3Zv6ZJdK';Gera MX, Christian Nodal;Botella Tras Botella;['latin'];0.73;0.55;0.04;0.66;0.12;0.69;106.89
-272;2021;  '1IcR6RlgvDczfvoWJSSY2A';Andy Williams;It's the Most Wonderful Time of the Year;['pop'];0.23;0.53;0.04;0.87;0.12;0.65;201.74
-273;2021;  '5JCoSi02qi3jJeHdZXMmR8';Olivia Rodrigo;favorite crime;['pop'];0.37;0.27;0.04;0.87;0.15;0.22;172.93
-274;2021;  '2tUL6dZf1mywCj5WvCPZw6';Drake;No Friends In The Industry;['hip hop'];0.84;0.74;0.11;0.02;0.63;0.17;83.74
-275;2021;  '7Bk0uXKk1uPT0XuQbpFzvs';Los Legendarios, Wisin, Jhayco;Fiel;['latin'];0.85;0.70;0.06;0.41;0.11;0.51;98.01
-276;2021;  '3tjFYV6RSFtuktYl3ZtYcq';24kGoldn, iann dior;Mood (feat. iann dior);['hip hop'];0.70;0.72;0.04;0.22;0.27;0.76;90.99
-277;2021;  '2cnKST6T9qUo2i907lm8zX';J. Cole;a m a r i;['hip hop'];0.73;0.71;0.19;0.13;0.62;0.21;65.99
-278;2021;  '05bfbizlM5AX6Mf1RRyMho';Nio Garcia, J Balvin, Bad Bunny;AM Remix;['latin'];0.74;0.66;0.16;0.11;0.08;0.79;172.03
-279;2021;  '65OVbaJR5O1RmwOQx0875b';Drake, Lil Baby;Wants and Needs (feat. Lil Baby);['hip hop'];0.58;0.45;0.29;0.06;0.12;0.10;136.01
-280;2021;  '3FAJ6O0NOHQV8Mc5Ri6ENp';Giveon;Heartbreak Anniversary;['R&B'];0.45;0.47;0.08;0.52;0.30;0.54;89.09
-281;2021;  '776AftMmFFAWUIEAb3lHhw';Måneskin;ZITTI E BUONI;['rock'];0.63;0.94;0.07;0.00;0.42;0.64;103.00
-282;2021;  '00Blm7zeNqgYLPtW6zg8cj';Post Malone, The Weeknd;One Right Now (with The Weeknd);['hip hop'];0.69;0.78;0.05;0.04;0.08;0.69;97.01
-283;2021;  '0k4d5YPDr1r7FX77VdqWez';Doja Cat, The Weeknd;You Right;['pop'];0.83;0.62;0.06;0.02;0.08;0.44;128.99
-284;2021;  '5W8jRrZ6tWrTrqnKRtIQBf';J. Cole, Lil Baby;p r i d e . i s . t h e . d e v i l (with Lil Baby);['hip hop'];0.86;0.66;0.43;0.10;0.10;0.33;88.97
-285;2021;  '2Xr1dTzJee307rmrkt8c0g';CKay;love nwantiti (ah ah ah);['R&B'];0.73;0.74;0.04;0.37;0.16;0.53;93.01
-286;2021;  '6w8ZPYdnGajyfPddTWdthN';Adele;Can I Get It;['pop'];0.70;0.68;0.04;0.02;0.18;0.54;97.99
-287;2021;  '0MMyJUC3WNnFS1lit5pTjk';Olivia Rodrigo;jealousy, jealousy;['pop'];0.70;0.58;0.12;0.20;0.06;0.70;163.93
-288;2021;  '4gzsuuZypVbxs0Af1LSZyB';Tainy, Bad Bunny, Julieta Venegas;Lo Siento BB:/ (with Bad Bunny & Julieta Venegas);['latin'];0.64;0.70;0.08;0.09;0.09;0.14;169.89
-289;2021;  '34D6FJysnQioVingDKufuf';Drake, Future;N 2 Deep;['hip hop'];0.51;0.43;0.33;0.05;0.11;0.07;91.00
-290;2021;  '2rCbl9naJYhaxjLsfx88uM';Sebastian Yatra, Myke Towers;Pareja Del Año;['latin'];0.72;0.62;0.05;0.16;0.09;0.81;80.02
-291;2021;  '35mvY5S1H3J2QZyna3TFe0';Ariana Grande;positions;['pop'];0.74;0.80;0.09;0.47;0.09;0.68;144.02
-292;2021;  '7vrJn5hDSXRmdXoR30KgF1';KAROL G;BICHOTA;['latin'];0.86;0.67;0.15;0.21;0.10;0.84;163.91
-293;2021;  '7uoFMmxln0GPXQ0AcCBXRq';Sia;Snowman;['pop'];0.72;0.51;0.03;0.48;0.09;0.33;104.96
-294;2021;  '6F2r4HgpJnvKDmkN6JEN6J';Justin Bieber, Khalid;As I Am (feat. Khalid);['pop'];0.60;0.54;0.04;0.13;0.10;0.11;99.93
-295;2021;  '2DuPBbS5mIldXnh7Wum8Cy';Adele;My Little Love;['pop'];0.34;0.49;0.06;0.83;0.15;0.10;151.87
-296;2021;  '6v0UJD4a2FtleHeSYVX02A';Adele;I Drink Wine;['pop'];0.44;0.57;0.05;0.70;0.12;0.31;115.39
-297;2021;  '31qCy5ZaophVA81wtlwLc4';Justin Bieber;Anyone;['pop'];0.69;0.54;0.03;0.18;0.11;0.58;115.88
-298;2021;  '6Im9k8u9iIzKMrmV7BWtlF';Ariana Grande;34+35;['pop'];0.83;0.59;0.09;0.24;0.25;0.49;109.98
-299;2021;  '3qCeq0rWK67SoBDgFd2sId';José Feliciano;Feliz Navidad;['latin'];0.51;0.82;0.05;0.41;0.30;0.97;148.73
-300;2021;  '4gvrJnKCKIPiacNsWVQwEU';CKay, Dj Yo!, AX'EL;love nwantiti (feat. Dj Yo! & AX'EL) - Remix;['R&B'];0.58;0.60;0.06;0.44;0.05;0.44;119.90
-301;2021;  '3YJJjQPAbDT7mGpX3WtQ9A';SZA;Good Days;['R&B'];0.44;0.66;0.06;0.50;0.69;0.41;121.00
-302;2021;  '40uMIn2zJLAQhNXghRjBed';Post Malone;Motley Crew;['hip hop'];0.80;0.63;0.08;0.09;0.10;0.29;129.92
-303;2021;  '0eu4C55hL6x29mmeAjytzC';Oliver Tree;Life Goes On;['hip hop'];0.70;0.49;0.08;0.19;0.12;0.57;79.98
-304;2021;  '08LwMWf5Tcfsd752EPzFV0';J. Cole;i n t e r l u d e;['hip hop'];0.77;0.57;0.11;0.06;0.10;0.10;98.96
-305;2021;  '1xK1Gg9SxG8fy2Ya373oqb';Myke Towers, Juhn;Bandido;['latin'];0.71;0.62;0.09;0.12;0.10;0.68;16.80
-306;2021;  '4R67rQNSbbsR4TdUVOIdez';Travis Scott;ESCAPE PLAN;['hip hop'];0.84;0.51;0.13;0.00;0.13;0.44;154.12
-307;2021;  '4OAuvHryIVv4kMDNSLuPt6';Taylor Swift;Red (Taylor's Version);['pop'];0.52;0.78;0.04;0.00;0.08;0.41;125.05
-308;2021;  '6uqyE384HDSsuwpoF4mjrL';Billie Eilish;NDA;['pop'];0.77;0.37;0.07;0.33;0.11;0.59;85.02
-309;2021;  '5R691ipUYRDYW6ehapjoj6';J. Cole;9 5 . s o u t h;['hip hop'];0.71;0.79;0.40;0.27;0.73;0.20;71.72
-310;2021;  '4btFHqumCO31GksfuBLLv3';Ed Sheeran;Overpass Graffiti;['pop'];0.52;0.85;0.19;0.00;0.12;0.77;175.91
-311;2021;  '1zejeOnykpCoyVSit6Bwp3';Olivia Rodrigo;hope ur ok;['pop'];0.44;0.30;0.06;0.39;0.10;0.17;77.25
-312;2021;  '13CVSGLSFl4UxpDVR6u3dq';Adele;Strangers By Nature;['pop'];0.39;0.25;0.03;0.80;0.08;0.13;68.00
-313;2021;  '3nsfB1vus2qaloUdcBZvDu';Taylor Swift;All Too Well (Taylor's Version);['pop'];0.44;0.53;0.03;0.02;0.23;0.13;185.97
-314;2021;  '6f3Slt0GbA2bPZlz0aIFXN';Tiësto;The Business;['Dance/Electronic'];0.80;0.62;0.23;0.41;0.11;0.24;120.03
-315;2021;  '4saklk6nie3yiGePpBwUoc';BTS;Dynamite;['k-pop'];0.75;0.77;0.10;0.01;0.09;0.74;114.04
-316;2021;  '3nAp4IvdMPPWEH9uuXFFV5';Kelly Clarkson;Underneath the Tree;['pop'];0.51;0.81;0.05;0.00;0.21;0.69;
-317;2021;  '27OeeYzk6klgBh83TSvGMA';The Kid LAROI;WITHOUT YOU;['hip hop'];0.66;0.41;0.03;0.21;0.13;0.47;93.01
-318;2021;  '2dNhNlpZAtV4lwAFW45LIv';Nio Garcia, Flow La Movie;AM;['latin'];0.83;0.52;0.33;0.40;0.09;0.62;171.96
-319;2021;  '7BoobGhD4x5K96Me0hqC8Q';Bella Poarch;Build a Bitch;['indie pop'];0.86;0.46;0.04;0.22;0.35;0.87;102.93
-320;2021;  '4cG7HUWYHBV6R6tHn1gxrl';Riton, Nightcrawlers, Mufasa & Hypeman, Dopamine;Friday (feat. Mufasa & Hypeman) - Dopamine Re-Edit;['Dance/Electronic'];0.82;0.86;0.13;0.01;0.30;0.80;122.98
-321;2021;  '20on25jryn53hWghthWWW3';ACRAZE, Cherish;Do It To It;['Dance/Electronic'];0.85;0.81;0.09;0.02;0.07;0.64;124.93
-322;2021;  '11pEKMLmavDu8fxOB5QjbQ';Drake;Pipe Down;['hip hop'];0.52;0.69;0.11;0.13;0.18;0.59;77.84
-323;2021;  '5vGLcdRuSbUhD8ScwsGSdA';CJ;Whoopty;['hip hop'];0.72;0.65;0.13;0.20;0.13;0.66;140.20
-324;2021;  '1M4OcYkxAtu3ErzSgDEfoi';Cardi B;Up;['pop'];0.87;0.80;0.27;0.00;0.05;0.82;166.00
-325;2021;  '7xapw9Oy21WpfEcib2ErSA';Justin Bieber;Mistletoe;['pop'];0.66;0.56;0.05;0.50;0.08;0.85;161.99
-326;2021;  '3CeCwYWvdfXbZLXFhBrbnf';Taylor Swift;Love Story (Taylor’s Version);['pop'];0.63;0.79;0.03;0.14;0.10;0.42;119.08
-327;2021;  '03LfOYi0icz4souspZVVhq';Bizarrap, Nicky Jam;Nicky Jam: Bzrp Music Sessions, Vol. 41;['latin'];0.63;0.85;0.15;0.09;0.15;0.82;89.91
-328;2021;  '7uQZVznj0uQOGC9KhV2Mg6';LISA;LALISA;['k-pop'];0.81;0.65;0.09;0.03;0.11;0.85;150.06
-329;2021;  '7hxHWCCAIIxFLCzvDgnQHX';Internet Money, Gunna, Don Toliver, NAV;Lemonade (feat. Gunna, Don Toliver & NAV);['hip hop'];0.80;0.66;0.08;0.25;0.11;0.46;140.04
-330;2021;  '2pn8dNVSpYnAtlKFC8Q0DJ';ROSÉ;On The Ground;['k-pop'];0.31;0.61;0.11;0.02;0.13;0.29;188.70
-331;2021;  '7fUYUcWy853HS8YJn0b3Sr';The Ronettes;Sleigh Ride;['pop'];0.53;0.77;0.03;0.40;0.32;0.85;91.75
-332;2021;  '6uvMKqNlrSvcC4NaKnrwjZ';Tion Wayne, Russ Millions, ArrDee, E1 (3x3), ZT (3x3), Bugzy Malone, Buni, Fivio Foreign, Darkoo;Body (Remix) [feat. ArrDee, E1 (3x3), ZT (3x3), Bugzy Malone, Buni, Fivio Foreign & Darkoo];['hip hop'];0.88;0.67;0.36;0.21;0.07;0.73;141.02
-333;2021;  '60ynsPSSKe6O3sfwRnIBRf';Doja Cat;Streets;['pop'];0.75;0.46;0.08;0.21;0.34;0.19;90.04
-334;2021;  '42m3eP1JJhtzffal9B136J';Drake;7am On Bridle Path;['hip hop'];0.72;0.53;0.30;0.23;0.11;0.14;89.90
-335;2021;  '27qAMKrDdKEs8HDXcvR24R';Chris Rea;Driving Home for Christmas - 2019 Remaster;['rock'];0.51;0.58;0.04;0.36;0.18;0.87;180.18
-336;2021;  '0aoUM0zcu0kCX7Cv7O939I';Ed Sheeran, Elton John;Merry Christmas;['pop'];0.59;0.94;0.04;0.24;0.10;0.60;113.99
-337;2021;  '2XIc1pqjXV3Cr2BQUGNBck';Bad Bunny, ROSALÍA;LA NOCHE DE ANOCHE;['latin'];0.86;0.62;0.29;0.03;0.09;0.39;81.99
-338;2021;  '1v1oIWf2Xgh54kIWuKsDf6';AURORA;Runaway;['pop'];0.42;0.30;0.04;0.63;0.10;0.12;114.09
-339;2021;  '5dXWFMwD7I7zXsInONVl0H';SZA;I Hate U;['R&B'];0.54;0.39;0.16;0.51;0.11;0.41;106.70
-340;2021;  '09u787BYeYIGd2mFIJ505t';Adele;Cry Your Heart Out;['pop'];0.76;0.71;0.10;0.52;0.25;0.59;125.06
-341;2021;  '0G2zPzWqVjR68iNPmx2TBe';Mora, Bad Bunny, Sech;Volando - Remix;['latin'];0.66;0.69;0.07;0.21;0.11;0.63;153.98
-342;2021;  '4FRW5Nza1Ym91BGV4nFWXI';Drake, Rick Ross;Lemon Pepper Freestyle (feat. Rick Ross);['hip hop'];0.77;0.64;0.35;0.10;0.17;0.43;94.97
-343;2021;  '7qM1BWAsZMTYh4BcYLb0uQ';Juice WRLD;Already Dead;['hip hop'];0.74;0.50;0.06;0.02;0.11;0.12;83.50
-344;2021;  '2BITQ360Knh6qNAOqR7Dyq';Trippie Redd, Playboi Carti;Miss The Rage (feat. Playboi Carti);['hip hop'];0.58;0.86;0.12;0.01;0.85;0.37;77.01
-345;2021;  '5B0kgjHULYJhAQkK5XsMoC';Tyler, The Creator, YoungBoy Never Broke Again, Ty Dolla $ign;WUSYANAME (feat. Youngboy Never Broke Again & Ty Dolla $ign);['hip hop'];0.49;0.65;0.05;0.27;0.51;0.85;142.35
-346;2021;  '4kKdvXD0ez7jp1296JmAts';Frank Sinatra, B. Swanson Quartet;Let It Snow! Let It Snow! Let It Snow! (with The B. Swanson Quartet);['pop'];0.65;0.26;0.06;0.90;0.36;0.84;142.17
-347;2021;  '10ImcQk9tihY1EKMDIbvXJ';Adele;To Be Loved;['pop'];0.36;0.18;0.04;0.84;0.23;0.29;170.43
-348;2021;  '2Q3jFbyE61mCjS3SkW4toJ';Drake;Race My Mind;['hip hop'];0.49;0.64;0.26;0.18;0.16;0.78;174.07
-349;2021;  '7F9cT6hIRhnFCYP6GKS0tf';Drake, Kid Cudi;IMY2 (with Kid Cudi);['hip hop'];0.59;0.49;0.04;0.40;0.13;0.05;150.03
-350;2021;  '2uFaJJtFpPDc5Pa95XzTvg';Dean Martin;Let It Snow! Let It Snow! Let It Snow!;['pop'];0.45;0.24;0.04;0.91;0.18;0.70;134.01
-351;2021;  '27RYrbL6S02LNVhDWVl38b';John Lennon, Yoko Ono;Happy Xmas (War Is Over) - Remastered 2010;['rock'];0.32;0.64;0.03;0.28;0.72;0.41;146.17
-352;2021;  '54bFM56PmE4YLRnqpW6Tha';Billie Eilish;Therefore I Am;['pop'];0.89;0.34;0.07;0.22;0.06;0.72;94.01
-353;2021;  '6tjituizSxwSmBB5vtgHZE';Michael Bublé;Holly Jolly Christmas;['pop'];0.65;0.47;0.04;0.87;0.09;0.70;151.25
-354;2021;  '4so0Wek9Ig1p6CRCHuINwW';Bing Crosby, Ken Darby Singers, John Scott Trotter & His Orchestra;White Christmas;['pop'];0.32;0.16;0.04;0.67;0.34;0.25;130.50
-355;2021;  '3VvA1wSxukMLsvXoXtlwWx';Boza;Hecha Pa' Mi;['latin'];0.73;0.76;0.06;0.36;0.10;0.83;100.07
-356;2021;  '2gbMPBrBVj3CuNTLp2dHYs';Kanye West;Off The Grid;['hip hop'];0.55;0.64;0.37;0.04;0.14;0.63;137.73
-357;2021;  '2CYVETnhM9aytqrazYYwrK';Taylor Swift;Mr. Perfectly Fine (Taylor’s Version) (From The Vault);['pop'];0.66;0.82;0.05;0.16;0.07;0.71;135.94
-358;2021;  '5lAnYvAIkSDNXqfo7DyFUm';Doja Cat;Ain't Shit;['pop'];0.86;0.49;0.21;0.51;0.35;0.62;124.10
-359;2021;  '08XWh5c0BMyD1nKVxxl91z';Drake, Tems;Fountains (with Tems);['hip hop'];0.84;0.49;0.20;0.18;0.11;0.69;100.05
-360;2021;  '3KdoeNlEN0BoAKWzaRLNZa';Lorde;Solar Power;['indie pop'];0.74;0.47;0.10;0.27;0.32;0.90;87.97
-361;2021;  '1q0PYXTbDsirp2l74ng6pn';J Balvin, Skrillex;In Da Getto;['latin'];0.92;0.72;0.05;0.02;0.11;0.64;127.00
-362;2021;  '1d7q712nXjG98HiwHk7HFS';J. Cole;a p p l y i n g . p r e s s u r e;['hip hop'];0.70;0.76;0.31;0.08;0.31;0.40;83.09
-363;2021;  '6KgtcmCF9Ky68XC7ezxl3s';Lizzo, Cardi B;Rumors (feat. Cardi B);['pop'];0.83;0.73;0.09;0.13;0.42;0.61;118.99
-364;2021;  '6AtZLIzUINvExIUy4QhdjP';Taylor Swift;I Knew You Were Trouble (Taylor's Version);['pop'];0.58;0.56;0.03;0.01;0.06;0.77;154.01
-365;2021;  '6Xgq7MvZiet0hVi3KaDSgJ';Justin Bieber, Chance the Rapper;Holy (feat. Chance The Rapper);['pop'];0.67;0.69;0.35;0.20;0.09;0.39;87.02
-366;2021;  '0psS4i5YooJrXfDnGvWRLi';Billie Eilish, ROSALÍA;Lo Vas A Olvidar (with ROSALÍA);['pop'];0.34;0.24;0.08;0.72;0.07;0.03;135.15
-367;2021;  '2gQPv5jvVPqU2a9HhMNO1v';BoyWithUke;Toxic;['hip hop'];0.59;0.61;0.36;0.84;0.46;0.69;179.63
-368;2021;  '1PDP7mLiAMwhfmgIwzhOm2';Drake, Yebba;Yebba’s Heartbreak;['hip hop'];0.48;0.16;0.04;0.97;0.11;0.09;119.61
-369;2021;  '09gysnJpfQ3ublBmJDfcEC';Amaarae, Kali Uchis, Moliy;SAD GIRLZ LUV MONEY Remix (feat. Kali Uchis and Moliy);['R&B'];0.87;0.52;0.06;0.43;0.11;0.32;110.02
-370;2021;  '0D75ciM842cdUMKSMfAR9y';Selena Gomez, Rauw Alejandro;Baila Conmigo (with Rauw Alejandro);['pop'];0.82;0.55;0.07;0.02;0.10;0.68;149.91
-371;2021;  '50ceCGZ3oD3U5caQV5bP6f';Drake, Lil Wayne, Rick Ross;You Only Live Twice (with Lil Wayne & Rick Ross);['hip hop'];0.52;0.85;0.29;0.12;0.18;0.71;123.82
-372;2021;  '0GAyuCo975IHGxxiLKDufB';J. Cole, Bas, 6LACK;l e t . g o . m y . h a n d (with Bas & 6LACK);['hip hop'];0.58;0.63;0.28;0.51;0.20;0.52;89.81
-373;2021;  '3jjBPF4NDMCU51psU8JPpR';Ariana Grande, Doja Cat, Megan Thee Stallion;34+35 Remix (feat. Doja Cat, Megan Thee Stallion) - Remix;['pop'];0.88;0.66;0.30;0.21;0.23;0.73;109.99
-374;2021;  '1SV1fxF65n9NhRHp3KlBuu';Paul McCartney;Wonderful Christmastime - Edited Version / Remastered 2011;['rock'];0.77;0.51;0.03;0.32;0.07;0.77;94.74
-375;2021;  '4n6NDfYake476trCjJRNl0';J. Cole, Bas;1 0 0 . m i l ‘ (with Bas);['hip hop'];0.71;0.65;0.08;0.33;0.31;0.23;125.09
-376;2021;  '1tkg4EHVoqnhR6iFEXb60y';Pop Smoke;What You Know Bout Love;['hip hop'];0.71;0.55;0.35;0.65;0.13;0.54;84.00
-377;2021;  '5YYW3yRktprLRr47WK219Y';Rochy RD, Myke Towers, Nicki Nicole;Ella No Es Tuya - Remix;['latin'];0.59;0.61;0.29;0.39;0.65;0.96;97.04
-378;2021;  '45bE4HXI0AwGZXfZtMp8JR';Tate McRae;you broke me first;['pop'];0.67;0.37;0.05;0.79;0.09;0.08;124.15
-379;2021;  '01K4zKU104LyJ8gMb7227B';Taylor Swift, Phoebe Bridgers;Nothing New (feat. Phoebe Bridgers) (Taylor’s Version) (From The Vault);['pop'];0.61;0.38;0.03;0.82;0.15;0.45;101.96
-380;2021;  '496vIKS2INz840xZaKncvR';Adele;All Night Parking (with Erroll Garner) Interlude;['pop'];0.73;0.50;0.17;0.67;0.19;0.31;127.99
-381;2021;  '1HbA4N1MiOsPthALesGFR1';Shawn Mendes, Justin Bieber;Monster (Shawn Mendes & Justin Bieber);['pop'];0.64;0.39;0.06;0.06;0.08;0.50;145.84
-382;2021;  '2c6xRsQBv7pynuhYhWoHxo';Adele;Woman Like Me;['pop'];0.59;0.37;0.17;0.75;0.13;0.33;145.60
-383;2021;  '1Ov37jtRQ2YNAe8HzfczkL';Taylor Swift;Wildest Dreams (Taylor's Version);['pop'];0.58;0.67;0.06;0.04;0.13;0.50;140.06
-384;2021;  '3yII7UwgLF6K5zW3xad3MP';Taylor Swift;22 (Taylor's Version);['pop'];0.64;0.70;0.03;0.00;0.08;0.64;103.98
-385;2021;  '6lzc0Al0zfZOIFsFvBS1ki';Taylor Swift;State Of Grace (Taylor's Version);['pop'];0.59;0.71;0.05;0.00;0.11;0.33;129.96
-386;2021;  '6dmXZ9B5HdFAyzHeTneYBK';ROSALÍA, The Weeknd;LA FAMA;['R&B'];0.77;0.30;0.05;0.95;0.13;0.82;136.01
-387;2021;  '1diS6nkxMQc3wwC4G1j0bh';Dua Lipa;We're Good;['pop'];0.72;0.59;0.05;0.03;0.18;0.59;134.01
-388;2021;  '7DF8lvLdV3htIbuTWpc7lR';Juice WRLD, SUGA, BTS;Girl Of My Dreams (with SUGA of BTS);['hip hop'];0.60;0.77;0.06;0.19;0.13;0.33;139.99
-389;2021;  '07MDkzWARZaLEdKxo6yArG';THE ANXIETY, WILLOW, Tyler Cole;Meet Me At Our Spot;['indie pop'];0.77;0.47;0.03;0.02;0.09;0.40;95.00
-390;2021;  '4IQkfUsrwXol38VV3U7t7T';Taylor Swift, Ed Sheeran;Run (feat. Ed Sheeran) (Taylor’s Version) (From The Vault);['pop'];0.61;0.49;0.03;0.82;0.31;0.44;125.04
-391;2021;  '2TE4xW3ImvpltVU0cPcKUn';Shakin' Stevens;Merry Christmas Everyone;['pop'];0.53;0.90;0.04;0.13;0.13;0.96;202.90
-392;2021;  '6sBWmE23q6xQHlnEZ8jYPT';Elton John;Step Into Christmas;['rock'];0.53;0.93;0.04;0.10;0.31;0.82;140.31
-393;2021;  '71R8HJxQk5qMiRstrlXN9t';Rauw Alejandro, Mr. Naisgai;2/Catorce;['latin'];0.54;0.46;0.22;0.68;0.12;0.43;83.88
-394;2021;  '6UelLqGlWMcVH1E5c4H7lY';Harry Styles;Watermelon Sugar;['pop'];0.55;0.82;0.05;0.12;0.34;0.56;95.39
-395;2021;  '4bF2y8rR7GUjrd5LNEvej3';Ingratax;París;['latin'];0.57;0.46;0.10;0.44;0.07;0.40;167.93
-396;2021;  '0E4Y1XIbs8GrAT1YqVy6dq';Ed Sheeran;Afterglow;['pop'];0.64;0.32;0.03;0.70;0.33;0.27;110.18
-397;2021;  '3QFInJAm9eyaho5vBzxInN';Baby Keem, Kendrick Lamar;family ties (with Kendrick Lamar);['hip hop'];0.71;0.61;0.33;0.01;0.23;0.14;134.09
-398;2021;  '57ZUX6TNyKLBydAdVVd02x';J. Cole;p u n c h i n ‘ . t h e . c l o c k;['hip hop'];0.77;0.74;0.38;0.20;0.17;0.69;94.10
-399;2021;  '0247StOpd3AkeBQzANX4Zf';Band Aid;Do They Know It's Christmas? - 1984 Version;['pop'];0.60;0.64;0.04;0.16;0.10;0.35;115.41
-400;2021;  '1SOClUWhOi8vHZYMz3GluK';Jaymes Young;Infinity;['indie pop'];0.67;0.67;0.04;0.15;0.30;0.49;121.96
+201;2021;'0gplL1WMoJ6iYaPgMCL0gX';Adele;Easy On Me;['pop'];0.60;0.37;0.03;0.58;0.13;0.13;141.98
+202;2021;'4ZtFanR9U6ndgddUvNcjcG';Olivia Rodrigo;good 4 u;['pop'];0.56;0.66;0.15;0.34;0.08;0.69;166.93
+203;2021;'7lPN2DXiMsVn7XUKtOW1CS';Olivia Rodrigo;drivers license;['pop'];0.59;0.44;0.06;0.72;0.11;0.13;143.87
+204;2021;'5PjdY0CKGZdEuoNab3yDmX';The Kid LAROI, Justin Bieber;STAY (with Justin Bieber);['pop'];0.59;0.76;0.05;0.04;0.10;0.48;169.93
+205;2021;'3VqeTFIvhxu3DIe4eZVzGq';BTS;Butter;['k-pop'];0.76;0.46;0.09;0.00;0.09;0.70;110.00
+206;2021;'67BtfxlNbhBmCDR2L2l8qd';Lil Nas X;MONTERO (Call Me By Your Name);['hip hop'];0.61;0.51;0.15;0.30;0.38;0.76;178.82
+207;2021;'5Z9KJZvQzH6PFmb8SNkxuk';Lil Nas X, Jack Harlow;INDUSTRY BABY (feat. Jack Harlow);['hip hop'];0.74;0.69;0.07;0.02;0.05;0.89;150.09
+208;2021;'4iJyoBOLtHqaGxP12qzhQI';Justin Bieber, Daniel Caesar, Giveon;Peaches (feat. Daniel Caesar & Giveon);['pop'];0.68;0.70;0.12;0.32;0.42;0.46;90.03
+209;2021;'3Wrjm47oTz2sjIgck11l5e';Måneskin;Beggin';['rock'];0.71;0.80;0.05;0.13;0.36;0.59;134.00
+210;2021;'4fSIb4hdOQ151TILNsSEaF';Rauw Alejandro;Todo De Ti;['latin'];0.78;0.72;0.05;0.31;0.09;0.34;127.95
+211;2021;'37Nqx7iavZpotJSDXZWbJ3';Drake, Lil Baby;Girls Want Girls (with Lil Baby);['hip hop'];0.77;0.44;0.29;0.18;0.14;0.38;86.98
+212;2021;'6HU7h9RYOaPRFeh0R3UeAr';Olivia Rodrigo;deja vu;['pop'];0.44;0.61;0.11;0.58;0.37;0.18;180.92
+213;2021;'40iJIUlhi6renaREYGeIDS';Drake, Travis Scott;Fair Trade (with Travis Scott);['hip hop'];0.67;0.47;0.26;0.05;0.22;0.29;167.94
+214;2021;'5enxwA8aAbwZbf5qCHORXi';Taylor Swift;All Too Well (10 Minute Version) (Taylor's Version) (From The Vault);['pop'];0.63;0.52;0.03;0.27;0.09;0.21;93.02
+215;2021;'0bYg9bo50gSsH3LtXe2SQn';Mariah Carey;All I Want for Christmas Is You;['pop'];0.34;0.63;0.04;0.16;0.07;0.35;150.27
+216;2021;'2JPLbjOn0wPCngEot2STUS';Bad Bunny;Yonaguni;['latin'];0.64;0.65;0.12;0.28;0.14;0.44;179.95
+217;2021;'6PQ88X9TkUIAUIZJHW2upE';Ed Sheeran;Bad Habits;['pop'];0.81;0.90;0.03;0.05;0.36;0.59;126.03
+218;2021;'0k1WUmIRnG3xU6fvvDVfRG';Drake, Future, Young Thug;Way 2 Sexy (with Future & Young Thug);['hip hop'];0.80;0.60;0.14;0.00;0.32;0.33;136.01
+219;2021;'0LThjFY2iTtNdd4wviwVV2';BTS;Permission to Dance;['k-pop'];0.70;0.74;0.04;0.01;0.34;0.65;124.93
+220;2021;'748mdHapucXQri7IAO8yFK';Doja Cat, SZA;Kiss Me More (feat. SZA);['pop'];0.76;0.70;0.03;0.24;0.12;0.74;110.97
+221;2021;'2FRnf9qhLbvw8fu4IBXx78';Wham!;Last Christmas;['pop'];0.74;0.48;0.03;0.19;0.36;0.95;107.68
+222;2021;'4fouWK6XVHhzl78KzQ1UjL';GAYLE;abcdefu;['pop'];0.70;0.54;0.05;0.30;0.37;0.42;121.93
+223;2021;'2HSmyk2qMN8WQjuGhaQgCk';Drake;Champagne Poetry;['hip hop'];0.42;0.67;0.33;0.76;0.25;0.50;86.74
+224;2021;'3Kkjo3cT83cw09VJyrLNwX';Adele;Oh My God;['pop'];0.53;0.73;0.05;0.09;0.03;0.55;88.10
+225;2021;'4RVwu0g32PAqgUiJoXsdF8';Billie Eilish;Happier Than Ever;['pop'];0.33;0.23;0.03;0.77;0.13;0.30;81.06
+226;2021;'5qNh5WtzMbfpSj2jLlBkoD';Billie Eilish;Your Power;['pop'];0.63;0.29;0.08;0.94;0.23;0.20;129.65
+227;2021;'5CZ40GBx1sQ9agT82CLQCT';Olivia Rodrigo;traitor;['pop'];0.38;0.34;0.03;0.69;0.12;0.08;100.61
+228;2021;'3FeVmId7tL5YN8B7R3imoM';Coldplay. BTS;My Universe;['pop'];0.59;0.70;0.04;0.01;0.20;0.44;104.99
+229;2021;'0e8nrvls4Qqv5Rfa2UhqmO';Lil Nas X;THATS WHAT I WANT;['hip hop'];0.74;0.85;0.22;0.01;0.05;0.55;87.98
+230;2021;'43PGPuHIlVOc04jrZVh9L6';Polo G;RAPSTAR;['hip hop'];0.79;0.54;0.24;0.41;0.13;0.44;81.04
+231;2021;'50nfwKoDiSYg8zOCREWAm5';Ed Sheeran;Shivers;['pop'];0.79;0.86;0.09;0.28;0.04;0.82;141.02
+232;2021;'4MzXwWMhyBbmu6hOcLVD49';Bad Bunny, Jhayco;DÁKITI;['latin'];0.73;0.57;0.05;0.40;0.11;0.15;109.93
+233;2021;'02MWAaffLxlfxAUY7c5dvx';Glass Animals;Heat Waves;['indie pop'];0.76;0.53;0.09;0.44;0.09;0.53;80.87
+234;2021;'6SRsiMl7w1USE4mFqrOhHC';Olivia Rodrigo;brutal;['pop'];0.67;0.53;0.06;0.03;0.28;0.28;124.00
+235;2021;'5nujrmhLynf4yMoMtj8AQF';Dua Lipa. DaBaby;Levitating (feat. DaBaby);['pop'];0.70;0.83;0.06;0.01;0.07;0.92;102.98
+236;2021;'2EjXfH91m7f8HiJN1yQg97';Brenda Lee;Rockin' Around The Christmas Tree;['pop'];0.59;0.47;0.05;0.61;0.51;0.90;67.20
+237;2021;'5fwSHlTEWpluwOM0Sxnh5k';Farruko;Pepas;['latin'];0.76;0.77;0.03;0.01;0.13;0.44;130.00
+238;2021;'5QO79kh1waicV47BqGRL3g';The Weeknd;Save Your Tears;['R&B'];0.68;0.83;0.03;0.02;0.54;0.64;118.05
+239;2021;'3VT8hOC5vuDXBsHrR53WFh';Masked Wolf;Astronaut In The Ocean;['hip hop'];0.78;0.70;0.09;0.18;0.15;0.47;150.00
+240;2021;'3Vi5XqYrmQgOYBajMWSvCi';Doja Cat;Need to Know;['pop'];0.66;0.61;0.07;0.30;0.09;0.19;130.04
+241;2021;'6Uj1ctrBOjOas8xZXGqKk4';Doja Cat;Woman;['pop'];0.82;0.76;0.09;0.09;0.12;0.88;108.00
+242;2021;'7vQbuQcyTflfCIOu3Uzzya';Bobby Helms;Jingle Bell Rock;['pop'];0.75;0.42;0.04;0.64;0.07;0.81;119.71
+243;2021;'0VjIjW4GlUZAMYd2vXMi3b';The Weeknd;Blinding Lights;['R&B'];0.51;0.73;0.06;0.00;0.09;0.33;171.01
+244;2021;'2BcMwX1MPV6ZHP4tUT9uq6';Drake, 21 Savage, Project Pat;Knife Talk (with 21 Savage ft. Project Pat);['hip hop'];0.85;0.42;0.32;0.06;0.08;0.15;145.89
+245;2021;'6tDDoYIxWvMLTdKpjFkc1B';Kali Uchis;telepatía;['latin'];0.65;0.52;0.05;0.11;0.20;0.55;83.97
+246;2021;'3aQem4jVGdhtg116TmJnHz';Drake;What’s Next;['hip hop'];0.78;0.59;0.05;0.01;0.16;0.06;129.90
+247;2021;'4pt5fDVTg5GhEvEtlz9dKk';Måneskin;I WANNA BE YOUR SLAVE;['rock'];0.75;0.61;0.04;0.00;0.18;0.96;132.51
+248;2021;'7rglLriMNBPAyuJOMGwi39';Elton John, Dua Lipa, PNAU;Cold Heart - PNAU Remix;['rock'];0.80;0.80;0.03;0.04;0.09;0.93;116.03
+249;2021;'7hU3IHwjX150XLoTVmjD0q';LISA;MONEY;['k-pop'];0.83;0.55;0.22;0.16;0.15;0.40;140.03
+250;2021;'2TOzTqQXNmR2zDJXihjZ2e';Olivia Rodrigo;enough for you;['pop'];0.64;0.26;0.09;0.75;0.22;0.27;88.49
+251;2021;'1nahzW3kfMuwReTka28tH5';Justin Bieber;Hold On;['pop'];0.66;0.63;0.04;0.01;0.12;0.30;140.00
+252;2021;'37BZB0z9T8Xu7U3e65qxFy';The Weeknd, Ariana Grande;Save Your Tears (with Ariana Grande) (Remix);['R&B'];0.65;0.83;0.03;0.02;0.09;0.59;118.09
+253;2021;'0lLdorYw7lVrJydTINhWdI';Michael Bublé;It's Beginning to Look a Lot like Christmas;['pop'];0.34;0.21;0.04;0.91;0.34;0.36;94.78
+254;2021;'6jy9yJfgCsMHdu2Oz4BGKX';Drake;Papi’s Home;['hip hop'];0.70;0.74;0.31;0.11;0.70;0.59;140.18
+255;2021;'0RbW8kWozrVSIGb4V13o0o';Kanye West;Hurricane;['hip hop'];0.59;0.56;0.15;0.05;0.11;0.35;80.01
+256;2021;'2tGvwE8GcFKwNdAXMnlbfl';Olivia Rodrigo;happier;['pop'];0.40;0.44;0.13;0.77;0.08;0.34;168.92
+257;2021;'2gpWyfu7eZ01zzncHpxOtA';Swedish House Mafia, The Weeknd;Moth To A Flame (with The Weeknd);['Dance/Electronic'];0.54;0.66;0.04;0.00;0.11;0.11;120.12
+258;2021;'5Kskr9LcNYa0tpt5f0ZEJx';Lil Tjay, 6LACK;Calling My Phone;['hip hop'];0.91;0.39;0.05;0.45;0.14;0.20;104.95
+259;2021;'6OGogr19zPTM4BALXuMQpF';The Weeknd;Take My Breath - Single Version;['R&B'];0.75;0.74;0.05;0.01;0.10;0.52;121.00
+260;2021;'6hf0RpxTbOprT5nnwzkk8e';J Balvin, Maria Becerra;Qué Más Pues?;['latin'];0.89;0.82;0.11;0.03;0.17;0.77;101.97
+261;2021;'4s7QLoImIwmPi9L6dq1nVW';Drake;TSU;['hip hop'];0.57;0.56;0.42;0.23;0.39;0.25;130.02
+262;2021;'61S79KIVA4I9FXbnsylEHT';Drake, Lil Durk, Giveon;In The Bible (with Lil Durk & Giveon);['hip hop'];0.69;0.39;0.30;0.61;0.13;0.15;143.07
+263;2021;'7MAibcTli4IisCtbHKrGMh';Bruno Mars, Anderson .Paak, Silk Sonic;Leave The Door Open;['pop'];0.59;0.62;0.03;0.18;0.09;0.72;148.09
+264;2021;'0lizgQ7Qw35od7CYaoMBZb';Ariana Grande;Santa Tell Me;['pop'];0.53;0.62;0.12;0.05;0.29;0.59;191.90
+265;2021;'1r9xUipOqoNwggBpENDsvJ';Imagine Dragons, JID, Arcane, League of Legends;Enemy (with JID) - from the series Arcane League of Legends;['rock'];0.73;0.78;0.27;0.24;0.43;0.56;77.01
+266;2021;'4VCbgIdr8ptegWeJpqLVHH';Drake, JAY-Z;Love All (with JAY-Z);['hip hop'];0.73;0.58;0.29;0.35;0.15;0.16;92.13
+267;2021;'2vmfvSoZBFAt9hhRoEByLi';Aventura, Bad Bunny;Volví;['latin'];0.73;0.86;0.18;0.42;0.07;0.79;175.90
+268;2021;'1D3z6HTiQsNmZxjl7F7eoG';J. Cole, 21 Savage, Morray;m y . l i f e (with 21 Savage & Morray);['hip hop'];0.60;0.59;0.14;0.06;0.21;0.08;140.02
+269;2021;'7sMBvZCSUl99bJLXZaLa0b';Bruno Mars, Anderson .Paak, Silk Sonic;Smokin Out The Window;['pop'];0.63;0.62;0.04;0.06;0.35;0.85;82.03
+270;2021;'4wcBRRpIfesgcyUtis7PEg';Olivia Rodrigo;1 step forward, 3 steps back;['pop'];0.47;0.20;0.10;0.94;0.13;0.42;168.88
+271;2021;'2MnLkFqY9Rpg9s3Zv6ZJdK';Gera MX, Christian Nodal;Botella Tras Botella;['latin'];0.73;0.55;0.04;0.66;0.12;0.69;106.89
+272;2021;'1IcR6RlgvDczfvoWJSSY2A';Andy Williams;It's the Most Wonderful Time of the Year;['pop'];0.23;0.53;0.04;0.87;0.12;0.65;201.74
+273;2021;'5JCoSi02qi3jJeHdZXMmR8';Olivia Rodrigo;favorite crime;['pop'];0.37;0.27;0.04;0.87;0.15;0.22;172.93
+274;2021;'2tUL6dZf1mywCj5WvCPZw6';Drake;No Friends In The Industry;['hip hop'];0.84;0.74;0.11;0.02;0.63;0.17;83.74
+275;2021;'7Bk0uXKk1uPT0XuQbpFzvs';Los Legendarios, Wisin, Jhayco;Fiel;['latin'];0.85;0.70;0.06;0.41;0.11;0.51;98.01
+276;2021;'3tjFYV6RSFtuktYl3ZtYcq';24kGoldn, iann dior;Mood (feat. iann dior);['hip hop'];0.70;0.72;0.04;0.22;0.27;0.76;90.99
+277;2021;'2cnKST6T9qUo2i907lm8zX';J. Cole;a m a r i;['hip hop'];0.73;0.71;0.19;0.13;0.62;0.21;65.99
+278;2021;'05bfbizlM5AX6Mf1RRyMho';Nio Garcia, J Balvin, Bad Bunny;AM Remix;['latin'];0.74;0.66;0.16;0.11;0.08;0.79;172.03
+279;2021;'65OVbaJR5O1RmwOQx0875b';Drake, Lil Baby;Wants and Needs (feat. Lil Baby);['hip hop'];0.58;0.45;0.29;0.06;0.12;0.10;136.01
+280;2021;'3FAJ6O0NOHQV8Mc5Ri6ENp';Giveon;Heartbreak Anniversary;['R&B'];0.45;0.47;0.08;0.52;0.30;0.54;89.09
+281;2021;'776AftMmFFAWUIEAb3lHhw';Måneskin;ZITTI E BUONI;['rock'];0.63;0.94;0.07;0.00;0.42;0.64;103.00
+282;2021;'00Blm7zeNqgYLPtW6zg8cj';Post Malone, The Weeknd;One Right Now (with The Weeknd);['hip hop'];0.69;0.78;0.05;0.04;0.08;0.69;97.01
+283;2021;'0k4d5YPDr1r7FX77VdqWez';Doja Cat, The Weeknd;You Right;['pop'];0.83;0.62;0.06;0.02;0.08;0.44;128.99
+284;2021;'5W8jRrZ6tWrTrqnKRtIQBf';J. Cole, Lil Baby;p r i d e . i s . t h e . d e v i l (with Lil Baby);['hip hop'];0.86;0.66;0.43;0.10;0.10;0.33;88.97
+285;2021;'2Xr1dTzJee307rmrkt8c0g';CKay;love nwantiti (ah ah ah);['R&B'];0.73;0.74;0.04;0.37;0.16;0.53;93.01
+286;2021;'6w8ZPYdnGajyfPddTWdthN';Adele;Can I Get It;['pop'];0.70;0.68;0.04;0.02;0.18;0.54;97.99
+287;2021;'0MMyJUC3WNnFS1lit5pTjk';Olivia Rodrigo;jealousy, jealousy;['pop'];0.70;0.58;0.12;0.20;0.06;0.70;163.93
+288;2021;'4gzsuuZypVbxs0Af1LSZyB';Tainy, Bad Bunny, Julieta Venegas;Lo Siento BB:/ (with Bad Bunny & Julieta Venegas);['latin'];0.64;0.70;0.08;0.09;0.09;0.14;169.89
+289;2021;'34D6FJysnQioVingDKufuf';Drake, Future;N 2 Deep;['hip hop'];0.51;0.43;0.33;0.05;0.11;0.07;91.00
+290;2021;'2rCbl9naJYhaxjLsfx88uM';Sebastian Yatra, Myke Towers;Pareja Del Año;['latin'];0.72;0.62;0.05;0.16;0.09;0.81;80.02
+291;2021;'35mvY5S1H3J2QZyna3TFe0';Ariana Grande;positions;['pop'];0.74;0.80;0.09;0.47;0.09;0.68;144.02
+292;2021;'7vrJn5hDSXRmdXoR30KgF1';KAROL G;BICHOTA;['latin'];0.86;0.67;0.15;0.21;0.10;0.84;163.91
+293;2021;'7uoFMmxln0GPXQ0AcCBXRq';Sia;Snowman;['pop'];0.72;0.51;0.03;0.48;0.09;0.33;104.96
+294;2021;'6F2r4HgpJnvKDmkN6JEN6J';Justin Bieber, Khalid;As I Am (feat. Khalid);['pop'];0.60;0.54;0.04;0.13;0.10;0.11;99.93
+295;2021;'2DuPBbS5mIldXnh7Wum8Cy';Adele;My Little Love;['pop'];0.34;0.49;0.06;0.83;0.15;0.10;151.87
+296;2021;'6v0UJD4a2FtleHeSYVX02A';Adele;I Drink Wine;['pop'];0.44;0.57;0.05;0.70;0.12;0.31;115.39
+297;2021;'31qCy5ZaophVA81wtlwLc4';Justin Bieber;Anyone;['pop'];0.69;0.54;0.03;0.18;0.11;0.58;115.88
+298;2021;'6Im9k8u9iIzKMrmV7BWtlF';Ariana Grande;34+35;['pop'];0.83;0.59;0.09;0.24;0.25;0.49;109.98
+299;2021;'3qCeq0rWK67SoBDgFd2sId';José Feliciano;Feliz Navidad;['latin'];0.51;0.82;0.05;0.41;0.30;0.97;148.73
+300;2021;'4gvrJnKCKIPiacNsWVQwEU';CKay, Dj Yo!, AX'EL;love nwantiti (feat. Dj Yo! & AX'EL) - Remix;['R&B'];0.58;0.60;0.06;0.44;0.05;0.44;119.90
+301;2021;'3YJJjQPAbDT7mGpX3WtQ9A';SZA;Good Days;['R&B'];0.44;0.66;0.06;0.50;0.69;0.41;121.00
+302;2021;'40uMIn2zJLAQhNXghRjBed';Post Malone;Motley Crew;['hip hop'];0.80;0.63;0.08;0.09;0.10;0.29;129.92
+303;2021;'0eu4C55hL6x29mmeAjytzC';Oliver Tree;Life Goes On;['hip hop'];0.70;0.49;0.08;0.19;0.12;0.57;79.98
+304;2021;'08LwMWf5Tcfsd752EPzFV0';J. Cole;i n t e r l u d e;['hip hop'];0.77;0.57;0.11;0.06;0.10;0.10;98.96
+305;2021;'1xK1Gg9SxG8fy2Ya373oqb';Myke Towers, Juhn;Bandido;['latin'];0.71;0.62;0.09;0.12;0.10;0.68;16.80
+306;2021;'4R67rQNSbbsR4TdUVOIdez';Travis Scott;ESCAPE PLAN;['hip hop'];0.84;0.51;0.13;0.00;0.13;0.44;154.12
+307;2021;'4OAuvHryIVv4kMDNSLuPt6';Taylor Swift;Red (Taylor's Version);['pop'];0.52;0.78;0.04;0.00;0.08;0.41;125.05
+308;2021;'6uqyE384HDSsuwpoF4mjrL';Billie Eilish;NDA;['pop'];0.77;0.37;0.07;0.33;0.11;0.59;85.02
+309;2021;'5R691ipUYRDYW6ehapjoj6';J. Cole;9 5 . s o u t h;['hip hop'];0.71;0.79;0.40;0.27;0.73;0.20;71.72
+310;2021;'4btFHqumCO31GksfuBLLv3';Ed Sheeran;Overpass Graffiti;['pop'];0.52;0.85;0.19;0.00;0.12;0.77;175.91
+311;2021;'1zejeOnykpCoyVSit6Bwp3';Olivia Rodrigo;hope ur ok;['pop'];0.44;0.30;0.06;0.39;0.10;0.17;77.25
+312;2021;'13CVSGLSFl4UxpDVR6u3dq';Adele;Strangers By Nature;['pop'];0.39;0.25;0.03;0.80;0.08;0.13;68.00
+313;2021;'3nsfB1vus2qaloUdcBZvDu';Taylor Swift;All Too Well (Taylor's Version);['pop'];0.44;0.53;0.03;0.02;0.23;0.13;185.97
+314;2021;'6f3Slt0GbA2bPZlz0aIFXN';Tiësto;The Business;['Dance/Electronic'];0.80;0.62;0.23;0.41;0.11;0.24;120.03
+315;2021;'4saklk6nie3yiGePpBwUoc';BTS;Dynamite;['k-pop'];0.75;0.77;0.10;0.01;0.09;0.74;114.04
+316;2021;'3nAp4IvdMPPWEH9uuXFFV5';Kelly Clarkson;Underneath the Tree;['pop'];0.51;0.81;0.05;0.00;0.21;0.69;
+317;2021;'27OeeYzk6klgBh83TSvGMA';The Kid LAROI;WITHOUT YOU;['hip hop'];0.66;0.41;0.03;0.21;0.13;0.47;93.01
+318;2021;'2dNhNlpZAtV4lwAFW45LIv';Nio Garcia, Flow La Movie;AM;['latin'];0.83;0.52;0.33;0.40;0.09;0.62;171.96
+319;2021;'7BoobGhD4x5K96Me0hqC8Q';Bella Poarch;Build a Bitch;['indie pop'];0.86;0.46;0.04;0.22;0.35;0.87;102.93
+320;2021;'4cG7HUWYHBV6R6tHn1gxrl';Riton, Nightcrawlers, Mufasa & Hypeman, Dopamine;Friday (feat. Mufasa & Hypeman) - Dopamine Re-Edit;['Dance/Electronic'];0.82;0.86;0.13;0.01;0.30;0.80;122.98
+321;2021;'20on25jryn53hWghthWWW3';ACRAZE, Cherish;Do It To It;['Dance/Electronic'];0.85;0.81;0.09;0.02;0.07;0.64;124.93
+322;2021;'11pEKMLmavDu8fxOB5QjbQ';Drake;Pipe Down;['hip hop'];0.52;0.69;0.11;0.13;0.18;0.59;77.84
+323;2021;'5vGLcdRuSbUhD8ScwsGSdA';CJ;Whoopty;['hip hop'];0.72;0.65;0.13;0.20;0.13;0.66;140.20
+324;2021;'1M4OcYkxAtu3ErzSgDEfoi';Cardi B;Up;['pop'];0.87;0.80;0.27;0.00;0.05;0.82;166.00
+325;2021;'7xapw9Oy21WpfEcib2ErSA';Justin Bieber;Mistletoe;['pop'];0.66;0.56;0.05;0.50;0.08;0.85;161.99
+326;2021;'3CeCwYWvdfXbZLXFhBrbnf';Taylor Swift;Love Story (Taylor’s Version);['pop'];0.63;0.79;0.03;0.14;0.10;0.42;119.08
+327;2021;'03LfOYi0icz4souspZVVhq';Bizarrap, Nicky Jam;Nicky Jam: Bzrp Music Sessions, Vol. 41;['latin'];0.63;0.85;0.15;0.09;0.15;0.82;89.91
+328;2021;'7uQZVznj0uQOGC9KhV2Mg6';LISA;LALISA;['k-pop'];0.81;0.65;0.09;0.03;0.11;0.85;150.06
+329;2021;'7hxHWCCAIIxFLCzvDgnQHX';Internet Money, Gunna, Don Toliver, NAV;Lemonade (feat. Gunna, Don Toliver & NAV);['hip hop'];0.80;0.66;0.08;0.25;0.11;0.46;140.04
+330;2021;'2pn8dNVSpYnAtlKFC8Q0DJ';ROSÉ;On The Ground;['k-pop'];0.31;0.61;0.11;0.02;0.13;0.29;188.70
+331;2021;'7fUYUcWy853HS8YJn0b3Sr';The Ronettes;Sleigh Ride;['pop'];0.53;0.77;0.03;0.40;0.32;0.85;91.75
+332;2021;'6uvMKqNlrSvcC4NaKnrwjZ';Tion Wayne, Russ Millions, ArrDee, E1 (3x3), ZT (3x3), Bugzy Malone, Buni, Fivio Foreign, Darkoo;Body (Remix) [feat. ArrDee, E1 (3x3), ZT (3x3), Bugzy Malone, Buni, Fivio Foreign & Darkoo];['hip hop'];0.88;0.67;0.36;0.21;0.07;0.73;141.02
+333;2021;'60ynsPSSKe6O3sfwRnIBRf';Doja Cat;Streets;['pop'];0.75;0.46;0.08;0.21;0.34;0.19;90.04
+334;2021;'42m3eP1JJhtzffal9B136J';Drake;7am On Bridle Path;['hip hop'];0.72;0.53;0.30;0.23;0.11;0.14;89.90
+335;2021;'27qAMKrDdKEs8HDXcvR24R';Chris Rea;Driving Home for Christmas - 2019 Remaster;['rock'];0.51;0.58;0.04;0.36;0.18;0.87;180.18
+336;2021;'0aoUM0zcu0kCX7Cv7O939I';Ed Sheeran, Elton John;Merry Christmas;['pop'];0.59;0.94;0.04;0.24;0.10;0.60;113.99
+337;2021;'2XIc1pqjXV3Cr2BQUGNBck';Bad Bunny, ROSALÍA;LA NOCHE DE ANOCHE;['latin'];0.86;0.62;0.29;0.03;0.09;0.39;81.99
+338;2021;'1v1oIWf2Xgh54kIWuKsDf6';AURORA;Runaway;['pop'];0.42;0.30;0.04;0.63;0.10;0.12;114.09
+339;2021;'5dXWFMwD7I7zXsInONVl0H';SZA;I Hate U;['R&B'];0.54;0.39;0.16;0.51;0.11;0.41;106.70
+340;2021;'09u787BYeYIGd2mFIJ505t';Adele;Cry Your Heart Out;['pop'];0.76;0.71;0.10;0.52;0.25;0.59;125.06
+341;2021;'0G2zPzWqVjR68iNPmx2TBe';Mora, Bad Bunny, Sech;Volando - Remix;['latin'];0.66;0.69;0.07;0.21;0.11;0.63;153.98
+342;2021;'4FRW5Nza1Ym91BGV4nFWXI';Drake, Rick Ross;Lemon Pepper Freestyle (feat. Rick Ross);['hip hop'];0.77;0.64;0.35;0.10;0.17;0.43;94.97
+343;2021;'7qM1BWAsZMTYh4BcYLb0uQ';Juice WRLD;Already Dead;['hip hop'];0.74;0.50;0.06;0.02;0.11;0.12;83.50
+344;2021;'2BITQ360Knh6qNAOqR7Dyq';Trippie Redd, Playboi Carti;Miss The Rage (feat. Playboi Carti);['hip hop'];0.58;0.86;0.12;0.01;0.85;0.37;77.01
+345;2021;'5B0kgjHULYJhAQkK5XsMoC';Tyler, The Creator, YoungBoy Never Broke Again, Ty Dolla $ign;WUSYANAME (feat. Youngboy Never Broke Again & Ty Dolla $ign);['hip hop'];0.49;0.65;0.05;0.27;0.51;0.85;142.35
+346;2021;'4kKdvXD0ez7jp1296JmAts';Frank Sinatra, B. Swanson Quartet;Let It Snow! Let It Snow! Let It Snow! (with The B. Swanson Quartet);['pop'];0.65;0.26;0.06;0.90;0.36;0.84;142.17
+347;2021;'10ImcQk9tihY1EKMDIbvXJ';Adele;To Be Loved;['pop'];0.36;0.18;0.04;0.84;0.23;0.29;170.43
+348;2021;'2Q3jFbyE61mCjS3SkW4toJ';Drake;Race My Mind;['hip hop'];0.49;0.64;0.26;0.18;0.16;0.78;174.07
+349;2021;'7F9cT6hIRhnFCYP6GKS0tf';Drake, Kid Cudi;IMY2 (with Kid Cudi);['hip hop'];0.59;0.49;0.04;0.40;0.13;0.05;150.03
+350;2021;'2uFaJJtFpPDc5Pa95XzTvg';Dean Martin;Let It Snow! Let It Snow! Let It Snow!;['pop'];0.45;0.24;0.04;0.91;0.18;0.70;134.01
+351;2021;'27RYrbL6S02LNVhDWVl38b';John Lennon, Yoko Ono;Happy Xmas (War Is Over) - Remastered 2010;['rock'];0.32;0.64;0.03;0.28;0.72;0.41;146.17
+352;2021;'54bFM56PmE4YLRnqpW6Tha';Billie Eilish;Therefore I Am;['pop'];0.89;0.34;0.07;0.22;0.06;0.72;94.01
+353;2021;'6tjituizSxwSmBB5vtgHZE';Michael Bublé;Holly Jolly Christmas;['pop'];0.65;0.47;0.04;0.87;0.09;0.70;151.25
+354;2021;'4so0Wek9Ig1p6CRCHuINwW';Bing Crosby, Ken Darby Singers, John Scott Trotter & His Orchestra;White Christmas;['pop'];0.32;0.16;0.04;0.67;0.34;0.25;130.50
+355;2021;'3VvA1wSxukMLsvXoXtlwWx';Boza;Hecha Pa' Mi;['latin'];0.73;0.76;0.06;0.36;0.10;0.83;100.07
+356;2021;'2gbMPBrBVj3CuNTLp2dHYs';Kanye West;Off The Grid;['hip hop'];0.55;0.64;0.37;0.04;0.14;0.63;137.73
+357;2021;'2CYVETnhM9aytqrazYYwrK';Taylor Swift;Mr. Perfectly Fine (Taylor’s Version) (From The Vault);['pop'];0.66;0.82;0.05;0.16;0.07;0.71;135.94
+358;2021;'5lAnYvAIkSDNXqfo7DyFUm';Doja Cat;Ain't Shit;['pop'];0.86;0.49;0.21;0.51;0.35;0.62;124.10
+359;2021;'08XWh5c0BMyD1nKVxxl91z';Drake, Tems;Fountains (with Tems);['hip hop'];0.84;0.49;0.20;0.18;0.11;0.69;100.05
+360;2021;'3KdoeNlEN0BoAKWzaRLNZa';Lorde;Solar Power;['indie pop'];0.74;0.47;0.10;0.27;0.32;0.90;87.97
+361;2021;'1q0PYXTbDsirp2l74ng6pn';J Balvin, Skrillex;In Da Getto;['latin'];0.92;0.72;0.05;0.02;0.11;0.64;127.00
+362;2021;'1d7q712nXjG98HiwHk7HFS';J. Cole;a p p l y i n g . p r e s s u r e;['hip hop'];0.70;0.76;0.31;0.08;0.31;0.40;83.09
+363;2021;'6KgtcmCF9Ky68XC7ezxl3s';Lizzo, Cardi B;Rumors (feat. Cardi B);['pop'];0.83;0.73;0.09;0.13;0.42;0.61;118.99
+364;2021;'6AtZLIzUINvExIUy4QhdjP';Taylor Swift;I Knew You Were Trouble (Taylor's Version);['pop'];0.58;0.56;0.03;0.01;0.06;0.77;154.01
+365;2021;'6Xgq7MvZiet0hVi3KaDSgJ';Justin Bieber, Chance the Rapper;Holy (feat. Chance The Rapper);['pop'];0.67;0.69;0.35;0.20;0.09;0.39;87.02
+366;2021;'0psS4i5YooJrXfDnGvWRLi';Billie Eilish, ROSALÍA;Lo Vas A Olvidar (with ROSALÍA);['pop'];0.34;0.24;0.08;0.72;0.07;0.03;135.15
+367;2021;'2gQPv5jvVPqU2a9HhMNO1v';BoyWithUke;Toxic;['hip hop'];0.59;0.61;0.36;0.84;0.46;0.69;179.63
+368;2021;'1PDP7mLiAMwhfmgIwzhOm2';Drake, Yebba;Yebba’s Heartbreak;['hip hop'];0.48;0.16;0.04;0.97;0.11;0.09;119.61
+369;2021;'09gysnJpfQ3ublBmJDfcEC';Amaarae, Kali Uchis, Moliy;SAD GIRLZ LUV MONEY Remix (feat. Kali Uchis and Moliy);['R&B'];0.87;0.52;0.06;0.43;0.11;0.32;110.02
+370;2021;'0D75ciM842cdUMKSMfAR9y';Selena Gomez, Rauw Alejandro;Baila Conmigo (with Rauw Alejandro);['pop'];0.82;0.55;0.07;0.02;0.10;0.68;149.91
+371;2021;'50ceCGZ3oD3U5caQV5bP6f';Drake, Lil Wayne, Rick Ross;You Only Live Twice (with Lil Wayne & Rick Ross);['hip hop'];0.52;0.85;0.29;0.12;0.18;0.71;123.82
+372;2021;'0GAyuCo975IHGxxiLKDufB';J. Cole, Bas, 6LACK;l e t . g o . m y . h a n d (with Bas & 6LACK);['hip hop'];0.58;0.63;0.28;0.51;0.20;0.52;89.81
+373;2021;'3jjBPF4NDMCU51psU8JPpR';Ariana Grande, Doja Cat, Megan Thee Stallion;34+35 Remix (feat. Doja Cat, Megan Thee Stallion) - Remix;['pop'];0.88;0.66;0.30;0.21;0.23;0.73;109.99
+374;2021;'1SV1fxF65n9NhRHp3KlBuu';Paul McCartney;Wonderful Christmastime - Edited Version / Remastered 2011;['rock'];0.77;0.51;0.03;0.32;0.07;0.77;94.74
+375;2021;'4n6NDfYake476trCjJRNl0';J. Cole, Bas;1 0 0 . m i l ‘ (with Bas);['hip hop'];0.71;0.65;0.08;0.33;0.31;0.23;125.09
+376;2021;'1tkg4EHVoqnhR6iFEXb60y';Pop Smoke;What You Know Bout Love;['hip hop'];0.71;0.55;0.35;0.65;0.13;0.54;84.00
+377;2021;'5YYW3yRktprLRr47WK219Y';Rochy RD, Myke Towers, Nicki Nicole;Ella No Es Tuya - Remix;['latin'];0.59;0.61;0.29;0.39;0.65;0.96;97.04
+378;2021;'45bE4HXI0AwGZXfZtMp8JR';Tate McRae;you broke me first;['pop'];0.67;0.37;0.05;0.79;0.09;0.08;124.15
+379;2021;'01K4zKU104LyJ8gMb7227B';Taylor Swift, Phoebe Bridgers;Nothing New (feat. Phoebe Bridgers) (Taylor’s Version) (From The Vault);['pop'];0.61;0.38;0.03;0.82;0.15;0.45;101.96
+380;2021;'496vIKS2INz840xZaKncvR';Adele;All Night Parking (with Erroll Garner) Interlude;['pop'];0.73;0.50;0.17;0.67;0.19;0.31;127.99
+381;2021;'1HbA4N1MiOsPthALesGFR1';Shawn Mendes, Justin Bieber;Monster (Shawn Mendes & Justin Bieber);['pop'];0.64;0.39;0.06;0.06;0.08;0.50;145.84
+382;2021;'2c6xRsQBv7pynuhYhWoHxo';Adele;Woman Like Me;['pop'];0.59;0.37;0.17;0.75;0.13;0.33;145.60
+383;2021;'1Ov37jtRQ2YNAe8HzfczkL';Taylor Swift;Wildest Dreams (Taylor's Version);['pop'];0.58;0.67;0.06;0.04;0.13;0.50;140.06
+384;2021;'3yII7UwgLF6K5zW3xad3MP';Taylor Swift;22 (Taylor's Version);['pop'];0.64;0.70;0.03;0.00;0.08;0.64;103.98
+385;2021;'6lzc0Al0zfZOIFsFvBS1ki';Taylor Swift;State Of Grace (Taylor's Version);['pop'];0.59;0.71;0.05;0.00;0.11;0.33;129.96
+386;2021;'6dmXZ9B5HdFAyzHeTneYBK';ROSALÍA, The Weeknd;LA FAMA;['R&B'];0.77;0.30;0.05;0.95;0.13;0.82;136.01
+387;2021;'1diS6nkxMQc3wwC4G1j0bh';Dua Lipa;We're Good;['pop'];0.72;0.59;0.05;0.03;0.18;0.59;134.01
+388;2021;'7DF8lvLdV3htIbuTWpc7lR';Juice WRLD, SUGA, BTS;Girl Of My Dreams (with SUGA of BTS);['hip hop'];0.60;0.77;0.06;0.19;0.13;0.33;139.99
+389;2021;'07MDkzWARZaLEdKxo6yArG';THE ANXIETY, WILLOW, Tyler Cole;Meet Me At Our Spot;['indie pop'];0.77;0.47;0.03;0.02;0.09;0.40;95.00
+390;2021;'4IQkfUsrwXol38VV3U7t7T';Taylor Swift, Ed Sheeran;Run (feat. Ed Sheeran) (Taylor’s Version) (From The Vault);['pop'];0.61;0.49;0.03;0.82;0.31;0.44;125.04
+391;2021;'2TE4xW3ImvpltVU0cPcKUn';Shakin' Stevens;Merry Christmas Everyone;['pop'];0.53;0.90;0.04;0.13;0.13;0.96;202.90
+392;2021;'6sBWmE23q6xQHlnEZ8jYPT';Elton John;Step Into Christmas;['rock'];0.53;0.93;0.04;0.10;0.31;0.82;140.31
+393;2021;'71R8HJxQk5qMiRstrlXN9t';Rauw Alejandro, Mr. Naisgai;2/Catorce;['latin'];0.54;0.46;0.22;0.68;0.12;0.43;83.88
+394;2021;'6UelLqGlWMcVH1E5c4H7lY';Harry Styles;Watermelon Sugar;['pop'];0.55;0.82;0.05;0.12;0.34;0.56;95.39
+395;2021;'4bF2y8rR7GUjrd5LNEvej3';Ingratax;París;['latin'];0.57;0.46;0.10;0.44;0.07;0.40;167.93
+396;2021;'0E4Y1XIbs8GrAT1YqVy6dq';Ed Sheeran;Afterglow;['pop'];0.64;0.32;0.03;0.70;0.33;0.27;110.18
+397;2021;'3QFInJAm9eyaho5vBzxInN';Baby Keem, Kendrick Lamar;family ties (with Kendrick Lamar);['hip hop'];0.71;0.61;0.33;0.01;0.23;0.14;134.09
+398;2021;'57ZUX6TNyKLBydAdVVd02x';J. Cole;p u n c h i n ‘ . t h e . c l o c k;['hip hop'];0.77;0.74;0.38;0.20;0.17;0.69;94.10
+399;2021;0247StOpd3AkeBQzANX4Zf;Band Aid;Do They Know It's Christmas? - 1984 Version;['pop'];0.60;0.64;0.04;0.16;0.10;0.35;115.41
+400;2021;1SOClUWhOi8vHZYMz3GluK;Jaymes Young;Infinity;['indie pop'];0.67;0.67;0.04;0.15;0.30;0.49;121.96
 401;2020;3Wrjm47oTz2sjIgck11l5e;Maneskin;Beggin';['rock'];0.71;0.80;0.05;0.13;0.36;0.59;134.00
 402;2020;5HCyWlXZPP0y6Gqq8TgA20;The Kid LAROI;STAY (with Justin Bieber);['pop'];0.59;0.76;0.05;0.04;0.10;0.48;169.93
 403;2020;4ZtFanR9U6ndgddUvNcjcG;Olivia Rodrigo;good 4 u;['pop'];0.56;0.66;0.15;0.34;0.08;0.69;166.93
